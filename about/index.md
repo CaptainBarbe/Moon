@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://captainbarbe.github.io/Moon"><b>Étudiant en WEBDESIGN & DÉVELOPPEMENT WEB</center>
+<center><a href="http://captainbarbe.github.io/Moon"><b>Florentin Mouilbeaux</b></a> Étudiant en WEBDESIGN & DÉVELOPPEMENT WEB</center>
 
 ## Features
 * Minimal, you can focus on your content
