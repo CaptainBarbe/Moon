@@ -5,7 +5,7 @@ description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/portrait.jpg'
-background:         'assets/img/bg.jpg'
+background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             fr_FR
 url:                https://captainbarbe.github.io/Moon
