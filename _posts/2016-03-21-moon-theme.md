@@ -12,7 +12,7 @@ tag:
 comments: false
 ---
 
-![Moon Homepage](assets/img/travaux/portfolio/Capture1.png)    
+![Moon Homepage](/assets/img/travaux/portfolio/Capture1.png)    
 
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
 
