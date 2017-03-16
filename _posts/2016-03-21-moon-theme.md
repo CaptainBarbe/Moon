@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "Portfolio - Projet de fin de formation"
 date:   2016-04-06
 excerpt: "Portfolio - Projet de fin de formation - CNAM"
 project: true
