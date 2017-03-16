@@ -23,7 +23,6 @@ comments: false
 
 {% capture images %}
 	//{{ site.url }}/assets/img/travaux/portfolio/Capture2.PNG
-  https://github.com/CaptainBarbe/Moon/blob/master/assets/img/travaux/portfolio/Capture1.PNG
 	https://captainbarbe.github.io/Moon/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
 	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
 {% endcapture %}
