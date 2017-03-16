@@ -16,18 +16,8 @@ comments: false
 
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
 
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+ Ce portfolio photo est le projet que je devais rendre à la fin de formation au CNAM. Il est responsive et utilise une base de données SQL pour pouvoir créer un compte/se connecter. Le fait de se connecter permet d'accéder à un album en plus. Et il utilise également du PHP pour la partie contact.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
-
-## Installation
-* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
-* Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
-
-That's all.
 
 ## Preview
 
