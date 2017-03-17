@@ -22,8 +22,8 @@ comments: false
 ## Preview
 
 <figure class="half">
-    <a href="{{ site.url }}/assets/img/travaux/portfolio/Capture1.PNG"><img src="{{ site.url }}/assets/img/travaux/portfolio/Capture1.PNG"></a>
-	<a href="{{ site.url }}/assets/img/travaux/portfolio/Capture2.PNG"><img src="{{ site.url }}/assets/img/travaux/portfolio/Capture2.PNG"></a>
+    <a href="{{ site.url }}/assets/img/travaux/portfolio/Capture1-2.PNG"><img src="{{ site.url }}/assets/img/travaux/portfolio/Capture1.PNG"></a>
+	<a href="{{ site.url }}/assets/img/travaux/portfolio/Capture2.PNG"><img src="{{ site.url }}/assets/img/travaux/portfolio/Capture2-2.PNG"></a>
 	<a href="{{ site.url }}/assets/img/travaux/portfolio/Capture3.PNG"><img src="{{ site.url }}/assets/img/travaux/portfolio/Capture3.PNG"></a>
 	<a href="{{ site.url }}/assets/img/travaux/portfolio/Capture4.PNG"><img src="{{ site.url }}/assets/img/travaux/portfolio/Capture4.PNG"></a>
 	<a href="{{ site.url }}/assets/img/travaux/portfolio/Capture5.PNG"><img src="{{ site.url }}/assets/img/travaux/portfolio/Capture5.PNG"></a>
