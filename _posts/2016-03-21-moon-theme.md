@@ -21,6 +21,14 @@ comments: false
 
 ## Preview
 
+<figure class="third">
+	<img src="/assets/img/travaux/portfolio/Capture1.PNG">
+	<img src="/assets/img/travaux/portfolio/Capture2.PNG">
+	<img src="/assets/img/travaux/portfolio/Capture3.PNG">
+	<img src="/assets/img/travaux/portfolio/Capture4.PNG">
+	<img src="/assets/img/travaux/portfolio/Capture5.PNG">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
 {% capture images %}
 	{{ site.url }}/assets/img/travaux/portfolio/Capture2.PNG
 	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
