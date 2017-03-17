@@ -29,11 +29,7 @@ comments: false
 	<img src="/assets/img/travaux/portfolio/Capture5.PNG">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
-{% capture images %}
-	{{ site.url }}/assets/img/travaux/portfolio/Capture2.PNG
-	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+
 
 ---
 
