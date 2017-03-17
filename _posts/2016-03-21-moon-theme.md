@@ -23,10 +23,10 @@ comments: false
 
 {% capture images %}
     {{ site.url }}/assets/img/travaux/portfolio/Capture1.PNG"
-	<img src="{{ site.url }}/assets/img/travaux/portfolio/Capture2.PNG">
-	<img src="{{ site.url }}/assets/img/travaux/portfolio/Capture3.PNG">
-	<img src="{{ site.url }}/assets/img/travaux/portfolio/Capture4.PNG">
-	<img src="{{ site.url }}/assets/img/travaux/portfolio/Capture5.PNG">
+	{{ site.url }}/assets/img/travaux/portfolio/Capture2.PNG"
+	{{ site.url }}/assets/img/travaux/portfolio/Capture3.PNG"
+	{{ site.url }}/assets/img/travaux/portfolio/Capture4.PNG"
+	{{ site.url }}/assets/img/travaux/portfolio/Capture5.PNG"
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=3 %}
 
