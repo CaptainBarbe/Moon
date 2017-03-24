@@ -20,9 +20,9 @@ Ma première expérience en graphisme en dehors du web, mise en contact par une 
 
 ## Preview
 
-![apercu 2]({{ site.url }}/assets/img/travaux/yoga/cdvverso.png)
-![apercu 3]({{ site.url }}/assets/img/travaux/yoga/flyerrecto2.png)
-![apercu 4]({{ site.url }}/assets/img/travaux/yoga/flyerverso2.png)
+![apercu 2]({{ site.url }}/assets/img/travaux/yoga/cdvverso.png)  
+![apercu 3]({{ site.url }}/assets/img/travaux/yoga/flyerrecto2.png)  
+![apercu 4]({{ site.url }}/assets/img/travaux/yoga/flyerverso2.png)  
 
 
 ---
